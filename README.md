@@ -30,7 +30,7 @@ Besides using the inbuilt hosting feature, which allows simple access and coop-g
 This is a simple tutorial on how to set up a [dedicated server](https://www.pcgamer.com/valheim-multiplayer-dedicated-server/).
 
 ### Step 1 - Valheim Dedicated Server Tool
-!(https://cdn.mos.cms.futurecdn.net/tdzUVjWHK8xv7aZQ5enKFR-1200-80.jpg)
+![Steam - Valheim Dedicated Server Tool](https://cdn.mos.cms.futurecdn.net/tdzUVjWHK8xv7aZQ5enKFR-1200-80.jpg)
 
 Open up **Steam** and toggle the ***Tools*** option in the steam library search and look for Valheim. You should be able to find `Valheim Dedicated Server` - install it.
 Once the installation is complete, head to its installing folder *(f.e. `C:\Program Files (x86)\Steam\steamapps\common\Valheim Dedicated Server`)* and look for `start_headless.server`.
