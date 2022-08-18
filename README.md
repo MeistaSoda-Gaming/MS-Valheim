@@ -81,7 +81,7 @@ If there's a firewall on the server PC, you'll have to open those ports on the f
 5. Set the *Specific local ports:* as *2456-2458* for both ***TCP*** and ***UDP*** *(requires you to create a new rule twice)*
 6. ***Allow the connection***
 7. Tick all options
-8. Name it and press the **Finish*****-Button***
+8. Name it and press the **Finish_- Button_**
 9. Repeat steps 2-8 with the `Outbound Rules`
 
 ### Step 3 - Starting the Dedicated Server
@@ -91,6 +91,6 @@ If the server is set to `-public 1`, the server should be visible in the *Commun
 If the server is set to `-public 0`, your fellow vikings will have to join through the *Steam Server Browser* `Steam --> View --> Servers` on the Steam Client in the Favourites tab by pressing "Add A Server".
 In both cases it is also possible to join through the host IP. The IP address for your server is your server PC's external IP with the affix `:2457` on the end for the correct port.
 
-*Example:* `192.168.1.4:2457`
+*Example:* 192.168.1.4:2457
 
 ### Step 4 - HAVE FUN
