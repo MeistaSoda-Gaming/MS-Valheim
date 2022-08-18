@@ -32,7 +32,8 @@ Open up **Steam** and toggle the ***Tools*** option in the steam library search 
 Once the installation is complete, head to its installing folder *(f.e. `C:\Program Files (x86)\Steam\steamapps\common\Valheim Dedicated Server`)* and look for `start_headless.server`.
 Make a backup-copy of it, rename it and open it.
 
-This is what you should be able to see, when opening the file:```
+This is what you should be able to see, when opening the file:
+```
 @echo off
 set SteamAppId=892970
 
