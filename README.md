@@ -96,3 +96,4 @@ In both cases it is also possible to join through the host IP. The IP address fo
 *Example:* 192.168.1.4:2457
 
 ### Step 4 - HAVE FUN
+![/cheer](https://user-images.githubusercontent.com/65448960/185453515-19922226-9733-4722-92bd-24a719b92429.jpg)
