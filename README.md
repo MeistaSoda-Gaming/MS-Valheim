@@ -20,6 +20,7 @@ Copy all files from the folder that is named after the world you want to play in
 ### Step 3 - PLAY & ENJOY
 You should be able to find the local world in your game now. Make sure that it remains a local save file ingame as well, to avoid issues.
 Make sure you inform your fellow Vikings whenever you start playing from those files and when you are done, so that you don't end up playing at the same time without sharing the progress. In that case you would have to sacrifice one of the two progresses in order to save the file.
+Alternatively you could agree with your fellowship, that anyone that plays, using the world files, has to open up the world as a community server. This way anyone can join and play at the same time.
 
 ### Step 4 - SAVE PROGRESS
 After playing on the world, you should shut down the game and head to the folder that holds the saved world files. Copy them into the repository and commit the changes to github.
