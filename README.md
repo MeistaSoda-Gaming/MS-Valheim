@@ -2,7 +2,7 @@
 This repository serves the purpose of sharing the world files of Valheim with each other, so that we can play without having to rely on someone hosting the server.
 Follow the steps below to make sure, that everything works out.
 
-If you have any questions, contact ***MeistaSoda#5695*** or head to his [server](https://discord.gg/gGdvjUm3QJ) on Discord.
+If you have any questions, contact ***meistasoda*** on Discord or head to his [Discord Server](https://discord.gg/gGdvjUm3QJ).
 
 
 ## SERVER FILES SHARING
