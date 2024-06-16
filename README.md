@@ -4,29 +4,73 @@ Follow the steps below to make sure, that everything works out.
 
 If you have any questions, contact ***meistasoda*** on Discord or head to his [Discord Server](https://discord.gg/gGdvjUm3QJ).
 
+<details>
 
-## SERVER FILES SHARING
+  <summary>Using GitHub</summary>
+  
+  ### 1. Download
 
-### Step 1 - BACKUP
-Make sure to create a backup of the world file before overwriting the file in your folder.
-It is no problem to create a folder within the world saves or just outside that folder, to save a backup of all world files.
+  There are 2 ways to download and use the folders, which we will describe here:
+  <br/>:one: Downlaod ZIP-File
+  <br/>:two: Clone and link the folder on your local PC via [**GitHub Desktop**](https://desktop.github.com/).
 
-You should be able to find the server files in `C:\Users\[YOUR USER]\AppData\LocalLow\IronGate\Valheim\worlds_local`
-*Hint: open the __AppData__ folder with __%appdata%__ in the command prompt aka cmd.*
+  <pr>![Abb.1 - Download](https://github.com/MeistaSoda-Gaming/TGL_Stream_Setup/assets/65448960/20a7de79-cf23-42f6-8de9-a340ef6b97fa)</pr>
 
-### Step 2 - COPY FILES
-Copy all files from the folder that is named after the world you want to play in. Simply paste them in the **worlds_local** folder.
+  ### 2. Update
 
-### Step 3 - PLAY & ENJOY
-You should be able to find the local world in your game now. Make sure that it remains a local save file ingame as well, to avoid issues.
-Make sure you inform your fellow Vikings whenever you start playing from those files and when you are done, so that you don't end up playing at the same time without sharing the progress. In that case you would have to sacrifice one of the two progresses in order to save the file.
-Alternatively you could agree with your fellowship, that anyone that plays, using the world files, has to open up the world as a community server. This way anyone can join and play at the same time.
+  #### :two: GitHub clone
 
-### Step 4 - SAVE PROGRESS
-After playing on the world, you should shut down the game and head to the folder that holds the saved world files. Copy them into the repository and commit the changes to github.
+  ##### - Fetch origin
 
+  With the 2nd option, any changes of data can be looked for with by clicking **_Fetch origin_**, followed by **_Pull origin_** to download any changes.
+  This variant is very simple and efficient.
 
-## DEDICATED SERVER
+  <pr>![Abb.2 - Fetch origin](https://github.com/MeistaSoda-Gaming/TGL_Stream_Setup/assets/65448960/89644512-af6f-49a3-8408-f46dbe94912e)</pr>
+
+  ##### - Pull origin
+
+  If GitHub notices any changes when clicking **_Fetch origin_**, you'll be able to download and update these changes by clicking **_Pull origin_**.
+
+  <pr>![Abb.3 - Pull origin](https://github.com/MeistaSoda-Gaming/TGL_Stream_Setup/assets/65448960/904ab1ba-51a3-448c-96f3-0ab6b108e38b)</pr>
+
+  After that, everything should be up to date.
+
+  ### 3. HAVE FUN
+  ![/cheer](https://user-images.githubusercontent.com/65448960/185453515-19922226-9733-4722-92bd-24a719b92429.jpg)
+  
+</details>
+
+<details>
+  
+  <summary>Server Files Sharing</summary>
+
+  ### Step 1 - BACKUP
+  Make sure to create a backup of the world file before overwriting the file in your folder.
+  It is no problem to create a folder within the world saves or just outside that folder, to save a backup of all world files.
+
+  You should be able to find the server files in `C:\Users\[YOUR USER]\AppData\LocalLow\IronGate\Valheim\worlds_local`
+  *Hint: open the __AppData__ folder with __%appdata%__ in the command prompt aka cmd.*
+
+  ### Step 2 - COPY FILES
+  Copy all files from the folder that is named after the world you want to play in. Simply paste them in the **worlds_local** folder.
+
+  ### Step 3 - PLAY & ENJOY
+  You should be able to find the local world in your game now. Make sure that it remains a local save file ingame as well, to avoid issues.
+  Make sure you inform your fellow Vikings whenever you start playing from those files and when you are done, so that you don't end up playing at the same time without sharing the progress. In that case you would have to sacrifice one of the two progresses in order to save the file.
+  Alternatively you could agree with your fellowship, that anyone that plays, using the world files, has to open up the world as a community server. This way anyone can join and play at the same time.
+
+  ### Step 4 - SAVE PROGRESS
+  After playing on the world, you should shut down the game and head to the folder that holds the saved world files. Copy them into the repository and commit the changes to github.
+
+  ### Step 5 - HAVE FUN
+  ![/cheer](https://user-images.githubusercontent.com/65448960/185453515-19922226-9733-4722-92bd-24a719b92429.jpg)
+
+</details>
+
+<details>
+  <summary>Dedicated Servers</summary>
+
+  ## DEDICATED SERVER
 Besides using the inbuilt hosting feature, which allows simple access and coop-gameplay, there is also another option of hosting a server, without having to be ingame and have your character online.
 This is a simple tutorial on how to set up a [dedicated server](https://www.pcgamer.com/valheim-multiplayer-dedicated-server/).
 
@@ -98,3 +142,5 @@ In both cases it is also possible to join through the host IP. The IP address fo
 
 ### Step 4 - HAVE FUN
 ![/cheer](https://user-images.githubusercontent.com/65448960/185453515-19922226-9733-4722-92bd-24a719b92429.jpg)
+
+</details>
